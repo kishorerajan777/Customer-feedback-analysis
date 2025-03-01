@@ -21,6 +21,7 @@ A simple web application built with **Streamlit, MySQL, and Python** for collect
 Run the following command:
 ```bash
 pip install -r requirements.txt
+
 2️⃣ Setup MySQL Database
 Run these SQL commands:
 
